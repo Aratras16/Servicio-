@@ -1,0 +1,316 @@
+
+
+() identidad
+
+define :identidad do
+  use_synth :fm
+  sample :ambi_choir
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+end
+
+
+(13)(24) rotacion
+
+define :permutacion do
+  use_synth :tech_saws
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 70 , amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+end
+
+(14)(23) rotacion
+define :permutacion do
+  use_synth :saw
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+end
+
+(12)(34) rotacion
+define :permutacion do
+  use_synth :pulse
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+end
+
+(234) rotacion
+define :permutacion do
+  use_synth :pulse
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+end
+
+(132) rotacion
+define :permutacion do
+  use_synth :fm
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+end
+
+(143) rotacion
+define :permutacion do
+  use_synth :saw
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+end
+
+(124) rotacion
+define :permutacion do
+  use_synth :tech_saws
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+end
+
+(243) rotacion 
+define :permutacion do
+  use_synth :tech_saws
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+end
+
+(134) rotacion
+define :permutacion do
+  use_synth :pulse
+  sample :guit_em9 , rate: 1
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+end
+
+(142) rotacion
+define :permutacion do
+  use_synth :saw
+  sample :guit_em9 , rate: 1
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+end
+
+(123) rotacion
+define :permutacion do
+  use_synth :fm
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+end
+
+(34)
+define :permutacion do
+  use_synth :pulse
+  sample :bass_woodsy_c, rate: 1
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+end
+
+(1324) rotacion
+define :permutacion do
+  use_synth :tech_saws
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+end
+
+(1423) rotacion
+define :permutacion do
+  use_synth :saw
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+end
+
+(12) reflexion
+define :permutacion do
+  use_synth :fm
+  sample :bass_woodsy_c, rate: 1
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+end
+
+(23) reflexion
+define :permutacion do
+  use_synth :fm
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+end
+
+(1342) reflexion
+define :permutacion do
+  use_synth :pulse
+  sample :bass_woodsy_c, rate: 1
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+end
+
+(14) reflexion
+define :permutacion do
+  use_synth :saw
+  sample :bass_woodsy_c, rate: 1
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+end
+
+(1243) reflexion
+define :permutacion do
+  use_synth :tech_saws
+  sample :bass_woodsy_c, rate: 1
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+end
+
+(24) reflexion
+define :permutacion do
+  use_synth :tech_saws
+  sample :bass_woodsy_c, rate: 1
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+end
+
+(13) reflexion
+define :permutacion do
+  use_synth :fm
+  sample :guit_em9, rate: 1
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+end
+
+(1432) reflexion
+define :permutacion do
+  use_synth :saw
+  sample :bass_woodsy_c, rate: 1
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+  play 70, amp: 2
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+end
+
+(1234) reflexion
+define :permutacion do
+  use_synth :pulse
+  sample :bass_woodsy_c, rate: 1
+  sleep 1
+  play 80, amp: 2
+  sleep 1
+  play 50, amp: 2
+  sleep 1
+  play 60, amp: 2
+  sleep 1
+end
