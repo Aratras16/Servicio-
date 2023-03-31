@@ -13,6 +13,9 @@ En la carpeta de programas encontrarás códigos escritos en Music21, una biblio
 Esta biblioteca permite trabajar con diversos tipos de archivos de música, incluyendo archivos MIDI y formatos de partitura como MusicXML.Además, Music21 es una herramienta de código abierto y cuenta con una gran comunidad de desarrolladores y usuarios que están constantemente actualizando y mejorando la biblioteca.
 
 ### Primos
+
+En la carpeta de primos se encuentra un programa que utiliza un algoritmo para determinar qué números son primos y, además, utiliza la biblioteca Music21 para dar una interpretación musical a los resultados obtenidos.
+
 ### Ritmo_euclideano
 ### Solidos_Platonicos
 
