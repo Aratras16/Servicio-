@@ -6,6 +6,8 @@ Proyecto de sonorización multidimensional.
 Insituto de Matemáticas de la UNAM*
 
 ## Programas
+
+
 En la carpeta de programas encontrarás códigos escritos en Music21, una biblioteca de Python diseñada específicamente para trabajar con notación musical y análisis de datos. Estos códigos pueden ser de utilidad para realizar diversas tareas relacionadas con la música, como la generación automática de armonías, la transcripción de partituras y el análisis estadístico de piezas musicales.Esta biblioteca permite trabajar con diversos tipos de archivos de música, incluyendo archivos MIDI y formatos de partitura como MusicXML. Además, Music21 es una herramienta de código abierto y cuenta con una gran comunidad de desarrolladores y usuarios que están constantemente actualizando y mejorando la biblioteca.
 
 ### Primos
