@@ -8,7 +8,7 @@ Insituto de Matemáticas de la UNAM*
 ## Programas
 
 
-En la carpeta de programas encontrarás códigos escritos en Music21, una biblioteca de Python diseñada específicamente para trabajar con notación musical y análisis de datos.
+En la carpeta de programas encontrarás códigos escritos en [Music21](http://web.mit.edu/music21/), una biblioteca de Python diseñada específicamente para trabajar con notación musical y análisis de datos.
 
 Esta biblioteca permite trabajar con diversos tipos de archivos de música, incluyendo archivos MIDI y formatos de partitura como MusicXML.Además, Music21 es una herramienta de código abierto y cuenta con una gran comunidad de desarrolladores y usuarios que están constantemente actualizando y mejorando la biblioteca.
 
@@ -19,7 +19,7 @@ En la carpeta de primos se encuentra un programa que utiliza un algoritmo para d
 ### Ritmo_euclideano
 Usando como referencia el articulo "The Euclidean Algorithm Generates Traditional Musical Rhythms" de Godfried Toussaint se encuentra un programa en el cual se implemento el algoritmo de euclides y haciendo uso de la biblioteca Music21 se le dio una interpretacion musical a los resultados obtenidos de aplicar el algoritmo.
 ### Solidos_Platonicos
-
+En esta carpeta se encuentran diversos intentos para sonificar a los solidos platonicos que van desde sonificar cada una de las caras y aplicar distintos intrumentos usando la biblioteca Music21,sonificar por aristas,vertices y por ultimo haciendo uso de Sagemath se encontro el grupo de permutaciones del tetraedro para asi sonorizarlo usando el programa de software libre [SonicPi](https://sonic-pi.net/)
 ## Simulacion_colisiones
 ### Figuras_Planas
 ### Solidos_platonicos
