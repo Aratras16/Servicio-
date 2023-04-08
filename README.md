@@ -19,10 +19,13 @@ En la carpeta de primos se encuentra un programa que utiliza un algoritmo para d
 ### Ritmo_euclideano
 Usando como referencia el articulo "The Euclidean Algorithm Generates Traditional Musical Rhythms" de Godfried Toussaint se encuentra un programa en el cual se implemento el algoritmo de euclides y haciendo uso de la biblioteca Music21 se le dio una interpretacion musical a los resultados obtenidos de aplicar el algoritmo.
 ### Solidos_Platonicos
-En esta carpeta se encuentran diversos intentos para sonificar a los solidos platonicos que van desde sonificar cada una de las caras y aplicar distintos intrumentos usando la biblioteca Music21,sonificar por aristas,vertices y por ultimo haciendo uso de Sagemath se encontro el grupo de permutaciones del tetraedro para asi sonorizarlo usando el programa de software libre [SonicPi](https://sonic-pi.net/)
+En esta carpeta se encuentran diversos intentos para sonificar a los solidos platonicos que van desde sonificar cada una de las caras y aplicar distintos intrumentos usando la biblioteca Music21,sonificar por aristas,vertices y por ultimo haciendo uso de Sagemath se encontro el grupo de permutaciones del tetraedro para asi sonorizarlo usando el programa [SonicPi](https://sonic-pi.net/)
 ## Simulacion_colisiones
+Usando un enfoque distinto a los primeros programas se implemento una simulacion de colisiones para representar las figuras ya sea bidimensionales,tridimensionales y cuadrimensionales.
 ### Figuras_Planas
+En esta carpeta se encuentran Simulaciones de colision de una particula (pelotita) a su vez de su representacion grafica usando la biblioteca de Python [PyGame](https://www.pygame.org/news) del cuadrado,triangulo y el pentagono.
 ### Solidos_platonicos
+
 ### Politopos_4D
 
 ## Bibliografia
