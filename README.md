@@ -17,6 +17,7 @@ Esta biblioteca permite trabajar con diversos tipos de archivos de música, incl
 En la carpeta de primos se encuentra un programa que utiliza un algoritmo para determinar qué números son primos y, además, utiliza la biblioteca Music21 para dar una interpretación musical a los resultados obtenidos.
 
 ### Ritmo_euclideano
+Usando como referencia el articulo "The Euclidean Algorithm Generates Traditional Musical Rhythms" de Godfried Toussaint se encuentra un programa en el cual se implemento el algoritmo de euclides y haciendo uso de la biblioteca Music21 se le dio una interpretacion musical a los resultados obtenidos de aplicar el algoritmo.
 ### Solidos_Platonicos
 
 ## Simulacion_colisiones
